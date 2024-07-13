@@ -1,5 +1,4 @@
 nitter
-*.html
 *.db
 /tests/__pycache__
 /tests/geckodriver.log
@@ -7,8 +6,6 @@ nitter
 /tests/latest_logs
 /tools/gencss
 /tools/rendermd
-/public/css/style.css
-/public/md/*.html
 nitter.conf
 guest_accounts.json*
 dump.rdb
